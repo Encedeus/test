@@ -1,0 +1,13 @@
+{
+  "name": "module_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cjstoesm": "^2.1.2",
+    "express": "^4.18.2"
+  }
+}
